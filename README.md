@@ -4,6 +4,11 @@
 
 This project focuses on an optimization problem where code has been developed to solve a generalized shortest path problem. Unlike the standard shortest path problem, this version allows cycles and negative costs, making it a more complex variation inspired by the Traveling Salesman Problem (TSP). The project implements a branch-and-cut algorithm  with separation procedures for both integer and fractional solutions, to efficiently handle these complexities.
 
+## Authors
+- Oriol Gelabert (oriol.gelabert@bse.eu)
+- Alex Malo (alex.malo@bse.eu)
+- Oliver Tausendchön (oliver.tausendschoen@bse.eu) 
+
 ## Problem Description
 
 The shortest path is determined in a Directed Graph G = (V, A).
